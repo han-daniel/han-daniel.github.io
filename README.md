@@ -1,3 +1,3 @@
 # portfolio
 
-https://seunghoonh.github.io/portfolio/
+https://seunghoonh.github.io/
