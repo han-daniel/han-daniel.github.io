@@ -1,0 +1,89 @@
+body {
+  background-color: black;
+}
+
+nav {
+  background-color: black;
+}
+
+.greenColor {
+  color: #c4f93d;
+  font-weight: bold;
+}
+
+.whiteColor {
+  color: white;
+}
+
+.spaceMono {
+  font-family: 'Space Mono', monospace;
+}
+
+.introHeader {
+  font-family: 'Space Mono', monospace;
+  color: #c4f93d;
+  font-weight: bold;
+  font-size: 70px;
+}
+
+.navbar {
+  font-family: 'Space Mono', monospace;
+}
+
+.aboutMe {
+  padding-top: 75px;
+}
+
+.introCaption {
+  font-family: 'Space Mono', monospace;
+  color: white;
+  font-size: 25px;
+  font-weight: bold;
+  padding-top: 15px;
+  padding-bottom: 30px;
+}
+
+
+.introBio {
+  font-family: 'Space Mono', monospace;
+  color: white;
+}
+
+.introLinks {
+  font-family: 'Space Mono', monospace;
+  color: #c4f93d;
+  font-size: 20px;
+  padding-top: 15px;
+  padding-bottom: 30px;
+}
+
+.linkButtons {
+  padding-right: 10px;
+
+}
+
+.introProjects {
+  font-family: 'Space Mono', monospace;
+  color: #c4f93d;
+  font-weight: bold;
+  font-size: 35px;
+}
+
+.introProjectCaption {
+  font-family: 'Space Mono', monospace;
+  color: white;
+  font-size: 25px;
+  font-weight: bold;
+  padding-top: 15px;
+  padding-bottom: 30px;
+}
+
+.introProjectBio {
+  font-family: 'Space Mono', monospace;
+  color: white;
+}
+
+.Projects {
+  padding-top: 60px;
+  padding-bottom: 100px;
+}
