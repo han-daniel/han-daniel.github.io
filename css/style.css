@@ -1,0 +1,97 @@
+.main-banner {
+    background-color: blue;
+    height: 100vh;
+    width: 100vw;
+    position: relative;
+}
+
+.banner-info {
+  width: 100vw;
+  max-width: 500px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  padding: 5px;
+}
+
+.banner-header {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 900;
+  font-size: 40px;
+  padding-bottom: 20px;
+}
+
+.nav-name {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 300;
+  font-size: 20px;
+  color: black;
+}
+
+.nav-link {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 300;
+  font-size: 15px;
+  color: black;
+}
+
+.main-btn {
+  padding: 7.5px 20px 7.5px 20px;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 300;
+  border-width: 1.75px;
+}
+.main-btn:not(:last-child) {
+  margin-right: 20px;
+}
+
+.banner-caption {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 500;
+  font-size: 25px;
+  padding-top: 20px;
+}
+
+.section-projects {
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
+.section-header {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 900;
+  font-size: 35px;
+  padding-top: 20px;
+  padding-bottom: 10px;
+}
+
+.project-box {
+  /* background-color: red; */
+  margin: 5px;
+  padding: 20px;
+  border-width: 1.75px;
+  border-color: #222222;
+  border-style: solid;
+  border-radius: 5px;
+}
+
+.project-img {
+  background-color: red;
+  width: 100%;
+  height: 200px;
+}
+
+.project-name {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 900;
+  font-size: 35px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+.project-info {
+
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
