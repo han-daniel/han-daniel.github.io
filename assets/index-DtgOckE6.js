@@ -96,7 +96,69 @@ This isn't just taxonomy. If you can locate yourself in this space, you can see 
 
 The underbidder doesn't need to "communicate better." They need to understand why their Ask dropped below their Want and what updating it would cost. The overbidder doesn't need to "be less demanding." They might need to check whether their Ask actually reflects their Want, or whether it's armor.
 
-The same diagnostic works for firms negotiating partnerships, countries managing alliances, and teams navigating internal politics. The dimensions are the same. The stakes change. The geometry doesn't.`},{title:"Eight Corners of the Exchange Cube",date:"February 2026",excerpt:"If you take three dimensions—Give, Want, and Ask—and set each to high or low, you get eight combinations. Each one describes a distinct relational posture, a characteristic way of showing up in exchanges.",content:`If you take three dimensions, Give, Want, and Ask, and set each to high or low, you get eight combinations. Each one describes a distinct relational posture, a characteristic way of showing up in exchanges. These aren't personality types. They're regimes: patterns of behavior that a person, firm, or institution can occupy, move between, and get stuck in.
+The same diagnostic works for firms negotiating partnerships, countries managing alliances, and teams navigating internal politics. The dimensions are the same. The stakes change. The geometry doesn't.`},{title:"Why Your Therapist and Your Economist Disagree",date:"February 2026",excerpt:"Take two people — one who over-invests in every relationship, one who under-invests in all of them — to a therapist. The therapist diagnoses the problem as internal. Take them to an economist. The economist says the problem is strategic. They can't both be right. Except they can.",content:`Imagine two people.
+
+The first over-invests in every relationship they're in. They give more than they get, absorb costs they shouldn't, and stay long past the point where the math stops working.
+
+The second under-invests. They keep distance, avoid dependency, and exit early. They don't ask for much and don't offer much either. From the outside, they look self-sufficient. From the inside, the picture is more complicated.
+
+Take both to a therapist. The therapist will diagnose the first with anxious attachment: they learned early that closeness requires constant earning, so they over-invest to maintain it. The second gets diagnosed with avoidant attachment: they learned that depending on someone leads to disappointment, so they minimize exposure. The therapeutic work for both is to build more secure internal models.
+
+Take both to an economist. The first is an irrational cooperator: they cooperate every round while their partner defects. The prescription is tit-for-tat. The second is a rational defector: they've correctly identified that non-cooperation minimizes downside. The economist has no prescription. The avoidant is already playing optimally.
+
+In both cases, the therapist says the problem is internal and the economist says the problem is strategic. They can't both be right.
+
+Except they can, because they're looking at different faces of the same object. And they're both wrong about something important: the game itself.
+
+## Two players, two wrong games
+
+The economist assumes everyone is in a Prisoner's Dilemma. Cooperate or defect, symmetric payoffs, and defection dominates if you're being rational. The anxious person is making a bad move (cooperating when they shouldn't), and the avoidant person is making the right one (defecting when it's optimal).
+
+But neither person is in a Prisoner's Dilemma.
+
+The anxious person is in a Hawk-Dove game. In Hawk-Dove, the worst outcome isn't getting exploited. It's mutual escalation, both Hawks collide and everything is destroyed. For someone whose core fear is losing the relationship entirely, playing Dove isn't irrational. It's the correct move given their payoff structure. Getting exploited is bad. Being alone is worse.
+
+The avoidant person is playing minimax. They're not optimizing for gain. They're minimizing maximum possible loss. In their payoff structure, dependency is the catastrophic outcome, not loneliness. So they keep investment low, keep Ask low, and maintain optionality at all times. The economist sees rational defection. What's actually happening is rational avoidance of a completely different risk.
+
+Same interaction. Two different games. And their partner might be in a third: an actual Prisoner's Dilemma where defection dominates regardless of what anyone else does. Three people, three payoff matrices, all shaped by what each person needs and what each person fears most. Their Wants are different, which means the game each person is playing is different.
+
+No amount of strategic advice helps if you've misidentified the game.
+
+## The therapist's blind spot
+
+The therapist correctly identifies the internal structure in both cases. The anxious person's over-investment is driven by high need. The avoidant person's under-investment is driven by suppressed need. Both patterns were shaped developmentally. So far, so good.
+
+But attachment theory has no concept of strategic demand. It treats relational behavior as an expression of internal working models, not as a negotiating posture. The therapist will work on each person's relationship to their own needs. They won't address Ask directly, because in the attachment framework, Ask isn't a variable. It's a symptom.
+
+This means the therapist misses a critical lever. The anxious person can develop earned security, a more stable sense of their own worth, and still walk into every negotiation and underbid. The avoidant person can learn to acknowledge their needs internally and still never voice them, because voicing is a separate skill on a separate axis. The behavioral habit can persist after the internal model has shifted. You can know you deserve better and still not ask for it.
+
+## Two projections, one missing dimension each
+
+The therapist is working on the Give-Want plane. How much does this person invest, and how much do they need? The anxious person is High Give, High Want. The avoidant person looks like Low Give, Low Want, but their low Want is often suppressed rather than absent. The therapist's work is on this distinction: helping the avoidant person recognize that their apparent self-sufficiency is a defense, not a preference.
+
+The economist is working on the Give-Ask plane. How much does this person invest, and how much do they demand? The anxious person is High Give, Low Ask: a target for exploitation. The avoidant person is Low Give, Low Ask: an efficient non-participant. The economist has clear prescriptions for the first and none for the second.
+
+Both are correct projections. Neither captures the full picture.
+
+The therapist misses Ask. So the anxious person heals internally but never learns to negotiate. The avoidant person acknowledges their needs but never learns to express them.
+
+The economist misses Want. So the prescription for the anxious person is "play tit-for-tat" when they're actually in a Hawk-Dove game where tit-for-tat doesn't apply. And the avoidant person gets a clean bill of health when they're actually in quiet deficit, a Withholder running on suppressed Want that neither their partner nor their economist can see.
+
+## What the third dimension reveals
+
+Add Want back into the economist's model, and you can see why the anxious person plays Dove: their Want is high and concentrated in relational capital, so losing the relationship is catastrophic. You can also see why the avoidant person's "rational defection" is actually a loss: their Want isn't really low, it's hidden, which means their strategy is optimizing against the wrong objective.
+
+Add Ask back into the therapist's model, and you can see why healing alone doesn't fix either person's behavior. The anxious person's Ask has been suppressed independently of their Want. The avoidant person's Ask has been suppressed as a consequence of suppressing their Want. Different mechanisms, both invisible from the Give-Want plane.
+
+And the most important insight: these two people aren't even in the same game, because they don't have the same Wants. The anxious person's Want structure produces Hawk-Dove payoffs. The avoidant person's produces minimax payoffs. Their partner might be in a Prisoner's Dilemma. The interaction between them isn't a single game. It's multiple games colliding. No 2D framework can see this, because the dimension that determines which game you're in is the one both frameworks collapsed.
+
+## The cost of flatland
+
+Every two-dimensional framework is a projection. Projections are useful. They reduce complexity and make problems tractable. But every projection destroys information, and the information it destroys is precisely the dimension it collapsed.
+
+If you've ever felt like your therapist's advice and your pragmatic friend's advice were both right and somehow incompatible, this is why. They're each giving you accurate advice for a 2D shadow of your 3D problem. The advice isn't wrong. It's incomplete. And incomplete advice, followed completely, produces partial solutions that feel like they should be working but aren't.
+
+The way out is the same in every case. Stop projecting. Measure all three dimensions. Then you can see which axis actually needs to move, and which game you're actually in.`},{title:"Eight Corners of the Exchange Cube",date:"February 2026",excerpt:"If you take three dimensions—Give, Want, and Ask—and set each to high or low, you get eight combinations. Each one describes a distinct relational posture, a characteristic way of showing up in exchanges.",content:`If you take three dimensions, Give, Want, and Ask, and set each to high or low, you get eight combinations. Each one describes a distinct relational posture, a characteristic way of showing up in exchanges. These aren't personality types. They're regimes: patterns of behavior that a person, firm, or institution can occupy, move between, and get stuck in.
 
 Here are the eight.
 
@@ -210,69 +272,7 @@ The first step is separating Want from Ask in your own accounting. Most underbid
 
 The second step is updating the prior. The underbid runs on an old model of what happens when you ask. That model was probably accurate in the environment where it was learned. The question is whether it's still accurate now. Sometimes it is. Some environments really do punish asking. But often, the underbidder is running threat detection calibrated to a context they're no longer in.
 
-The third step is tolerating the discomfort of a honest bid. Even when the prior has been updated, even when you know the current environment is safe, the act of asking at the level of your actual Want will feel wrong. That feeling isn't evidence that you're doing it wrong. It's evidence that you're doing something new.`},{title:"Why Your Therapist and Your Economist Disagree",date:"February 2026",excerpt:"Take two people — one who over-invests in every relationship, one who under-invests in all of them — to a therapist. The therapist diagnoses the problem as internal. Take them to an economist. The economist says the problem is strategic. They can't both be right. Except they can.",content:`Imagine two people.
-
-The first over-invests in every relationship they're in. They give more than they get, absorb costs they shouldn't, and stay long past the point where the math stops working.
-
-The second under-invests. They keep distance, avoid dependency, and exit early. They don't ask for much and don't offer much either. From the outside, they look self-sufficient. From the inside, the picture is more complicated.
-
-Take both to a therapist. The therapist will diagnose the first with anxious attachment: they learned early that closeness requires constant earning, so they over-invest to maintain it. The second gets diagnosed with avoidant attachment: they learned that depending on someone leads to disappointment, so they minimize exposure. The therapeutic work for both is to build more secure internal models.
-
-Take both to an economist. The first is an irrational cooperator: they cooperate every round while their partner defects. The prescription is tit-for-tat. The second is a rational defector: they've correctly identified that non-cooperation minimizes downside. The economist has no prescription. The avoidant is already playing optimally.
-
-In both cases, the therapist says the problem is internal and the economist says the problem is strategic. They can't both be right.
-
-Except they can, because they're looking at different faces of the same object. And they're both wrong about something important: the game itself.
-
-## Two players, two wrong games
-
-The economist assumes everyone is in a Prisoner's Dilemma. Cooperate or defect, symmetric payoffs, and defection dominates if you're being rational. The anxious person is making a bad move (cooperating when they shouldn't), and the avoidant person is making the right one (defecting when it's optimal).
-
-But neither person is in a Prisoner's Dilemma.
-
-The anxious person is in a Hawk-Dove game. In Hawk-Dove, the worst outcome isn't getting exploited. It's mutual escalation, both Hawks collide and everything is destroyed. For someone whose core fear is losing the relationship entirely, playing Dove isn't irrational. It's the correct move given their payoff structure. Getting exploited is bad. Being alone is worse.
-
-The avoidant person is playing minimax. They're not optimizing for gain. They're minimizing maximum possible loss. In their payoff structure, dependency is the catastrophic outcome, not loneliness. So they keep investment low, keep Ask low, and maintain optionality at all times. The economist sees rational defection. What's actually happening is rational avoidance of a completely different risk.
-
-Same interaction. Two different games. And their partner might be in a third: an actual Prisoner's Dilemma where defection dominates regardless of what anyone else does. Three people, three payoff matrices, all shaped by what each person needs and what each person fears most. Their Wants are different, which means the game each person is playing is different.
-
-No amount of strategic advice helps if you've misidentified the game.
-
-## The therapist's blind spot
-
-The therapist correctly identifies the internal structure in both cases. The anxious person's over-investment is driven by high need. The avoidant person's under-investment is driven by suppressed need. Both patterns were shaped developmentally. So far, so good.
-
-But attachment theory has no concept of strategic demand. It treats relational behavior as an expression of internal working models, not as a negotiating posture. The therapist will work on each person's relationship to their own needs. They won't address Ask directly, because in the attachment framework, Ask isn't a variable. It's a symptom.
-
-This means the therapist misses a critical lever. The anxious person can develop earned security, a more stable sense of their own worth, and still walk into every negotiation and underbid. The avoidant person can learn to acknowledge their needs internally and still never voice them, because voicing is a separate skill on a separate axis. The behavioral habit can persist after the internal model has shifted. You can know you deserve better and still not ask for it.
-
-## Two projections, one missing dimension each
-
-The therapist is working on the Give-Want plane. How much does this person invest, and how much do they need? The anxious person is High Give, High Want. The avoidant person looks like Low Give, Low Want, but their low Want is often suppressed rather than absent. The therapist's work is on this distinction: helping the avoidant person recognize that their apparent self-sufficiency is a defense, not a preference.
-
-The economist is working on the Give-Ask plane. How much does this person invest, and how much do they demand? The anxious person is High Give, Low Ask: a target for exploitation. The avoidant person is Low Give, Low Ask: an efficient non-participant. The economist has clear prescriptions for the first and none for the second.
-
-Both are correct projections. Neither captures the full picture.
-
-The therapist misses Ask. So the anxious person heals internally but never learns to negotiate. The avoidant person acknowledges their needs but never learns to express them.
-
-The economist misses Want. So the prescription for the anxious person is "play tit-for-tat" when they're actually in a Hawk-Dove game where tit-for-tat doesn't apply. And the avoidant person gets a clean bill of health when they're actually in quiet deficit, a Withholder running on suppressed Want that neither their partner nor their economist can see.
-
-## What the third dimension reveals
-
-Add Want back into the economist's model, and you can see why the anxious person plays Dove: their Want is high and concentrated in relational capital, so losing the relationship is catastrophic. You can also see why the avoidant person's "rational defection" is actually a loss: their Want isn't really low, it's hidden, which means their strategy is optimizing against the wrong objective.
-
-Add Ask back into the therapist's model, and you can see why healing alone doesn't fix either person's behavior. The anxious person's Ask has been suppressed independently of their Want. The avoidant person's Ask has been suppressed as a consequence of suppressing their Want. Different mechanisms, both invisible from the Give-Want plane.
-
-And the most important insight: these two people aren't even in the same game, because they don't have the same Wants. The anxious person's Want structure produces Hawk-Dove payoffs. The avoidant person's produces minimax payoffs. Their partner might be in a Prisoner's Dilemma. The interaction between them isn't a single game. It's multiple games colliding. No 2D framework can see this, because the dimension that determines which game you're in is the one both frameworks collapsed.
-
-## The cost of flatland
-
-Every two-dimensional framework is a projection. Projections are useful. They reduce complexity and make problems tractable. But every projection destroys information, and the information it destroys is precisely the dimension it collapsed.
-
-If you've ever felt like your therapist's advice and your pragmatic friend's advice were both right and somehow incompatible, this is why. They're each giving you accurate advice for a 2D shadow of your 3D problem. The advice isn't wrong. It's incomplete. And incomplete advice, followed completely, produces partial solutions that feel like they should be working but aren't.
-
-The way out is the same in every case. Stop projecting. Measure all three dimensions. Then you can see which axis actually needs to move, and which game you're actually in.`},{title:"The Trader Equilibrium",date:"February 2026",excerpt:"The first four essays in this series are diagnostic. They give you a coordinate system for locating relational behavior. But diagnosis without a direction is just a more articulate version of being stuck. So: where should you be trying to go?",content:`The first four essays in this series are diagnostic. They give you a coordinate system for locating relational behavior: three dimensions, eight regimes, a way to see why different frameworks disagree. But diagnosis without a direction is just a more articulate version of being stuck. So: where should you be trying to go?
+The third step is tolerating the discomfort of a honest bid. Even when the prior has been updated, even when you know the current environment is safe, the act of asking at the level of your actual Want will feel wrong. That feeling isn't evidence that you're doing it wrong. It's evidence that you're doing something new.`},{title:"The Trader Equilibrium",date:"February 2026",excerpt:"The first four essays in this series are diagnostic. They give you a coordinate system for locating relational behavior. But diagnosis without a direction is just a more articulate version of being stuck. So: where should you be trying to go?",content:`The first four essays in this series are diagnostic. They give you a coordinate system for locating relational behavior: three dimensions, eight regimes, a way to see why different frameworks disagree. But diagnosis without a direction is just a more articulate version of being stuck. So: where should you be trying to go?
 
 The answer, in almost every context, is the Trader.
 
